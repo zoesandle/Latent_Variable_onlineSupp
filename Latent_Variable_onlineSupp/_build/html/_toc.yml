@@ -4,4 +4,4 @@
 format: jb-book
 root: intro
 chapters:
-- file: sankey
+- file: sankey_models_plot
