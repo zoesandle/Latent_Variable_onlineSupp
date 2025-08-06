@@ -1,11 +1,10 @@
-# Welcome to your Jupyter Book
+# Welcome to Supplemental Materials for the EAPL 2025 Poster Session 
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+On this Github page I've hosted some additional materials that might be of interest. 
 
-Check out the content pages bundled with this sample book to see more.
+I am very happy to receive any comments, feedback, or questions at zoesandle@donders.ru.nl.
+
+You may jump immediately to the section of interest below:
 
 ```{tableofcontents}
 ```
